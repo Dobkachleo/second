@@ -1,12 +1,14 @@
-/**
-* Bubble sort function announcement
+/** \file bubble.h
+*   \brief Bubble sort function announcement
+*/
+
+/** \fn Bubble
+*
+*   \param *m - array pointer
+*   \param n - number of elements
 */
 #include <stdio.h>
 
-/** @function Bubble
-* @param *m - array pointer
-* @param n - number of elements
-*/
 #ifndef _BUBBLE_
 #define _BUBBLE_
 
